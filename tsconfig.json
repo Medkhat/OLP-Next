@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "components/common/Styled/NavLink.js", "pages/_document.js", "components/common/Accordion/index.js", "components/common/Accordion/AccordionContext.js", "components/common/Accordion/Toggle/index.js", "components/common/Accordion/Hooks/useAccordionContext.js", "components/common/Accordion/Hooks/index.js", "components/common/Accordion/Collapse/index.js", "components/common/Accordion/Card/index.js", "components/common/Accordion/Card/CardHeader.jsx", "components/common/Accordion/Card/CardBody.jsx"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "": {
+    "banner": {
+      "title": "Кел балалар, оқылық!",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+      "img": "https://static.vecteezy.com/system/resources/previews/000/180/365/original/e-learning-flat-line-illustration-vector.jpg"
+    },
+    "latestPosts": [
+      {
+        "id": 0,
+        "title": "What is Lorem Ipsum ?",
+        "date": "03-11-2020 13:15",
+        "viewers": 32,
+        "img": "https://storage.googleapis.com/cdn.makiplace.com/2018/01/Lorem-Serif.png"
+      },
+      {
+        "id": 1,
+        "title": "Python (programming language)",
+        "date": "02-11-2020 13:15",
+        "viewers": 32,
+        "img": "https://sun9-21.userapi.com/c855428/v855428097/1a2796/0Xw07sKhDPw.jpg"
+      },
+      {
+        "id": 2,
+        "title": "JavaScript is the best programming language",
+        "date": "02-11-2020 14:15",
+        "viewers": 32,
+        "img": "https://avatars.mds.yandex.net/get-zen_doc/1878571/pub_5d0c8182a692c900afdb95d5_5e634d95dbf48a391f4c808e/scale_1200"
+      },
+      {
+        "id": 3,
+        "title": "Kazakh khanate",
+        "date": "02-11-2020 14:15",
+        "viewers": 32,
+        "img": "https://time.kz/up_img/szh.kz_.jpg"
+      },
+      {
+        "id": 4,
+        "title": "QazAcademy in USA",
+        "date": "02-11-2020 14:15",
+        "viewers": 32,
+        "img": "http://www.kazakistan.kz/wp-content/uploads/2018/03/kazahstan_i_ssha.jpg"
+      }
+    ],
+    "latestCourses": [
+      {
+        "id": 0,
+        "img": "https://sun9-21.userapi.com/c855428/v855428097/1a2796/0Xw07sKhDPw.jpg",
+        "title": "Programming with Python",
+        "price": "19 600",
+        "author": "Baktyar Aydar",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      },
+      {
+        "id": 1,
+        "img": "https://repository-images.githubusercontent.com/275310694/63b97580-ca04-11ea-9e8c-dd829e2c37fd",
+        "title": "Best WEB Application Framework - ReactJS",
+        "price": "19 600",
+        "author": "Akimbek Medkhat",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      },
+      {
+        "id": 2,
+        "img": "https://media.proglib.io/wp-uploads/2018/10/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg",
+        "title": "C++. Fast programming",
+        "price": "20 000",
+        "author": "Bakhytov Yerniyaz",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      },
+      {
+        "id": 3,
+        "img": "https://www.360edukraft.com/wp-content/uploads/2018/08/Python-Django-Certification-Training-course.jpg",
+        "title": "Backend with Django",
+        "price": "19 000",
+        "author": "Otarbay Dauren",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      },
+      {
+        "id": 4,
+        "img": "https://hsto.org/getpro/habr/post_images/5a9/da1/bb9/5a9da1bb94c55a3084ddabcef722cd30.jpg",
+        "title": "iOS Development with Swift",
+        "price": "19 500",
+        "author": "Shomat Ilyas",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      }
+    ]
+  },
+  "modules": {
+    "banner": {
+      "img": "https://static.tildacdn.com/tild6436-6138-4262-b637-336161323137/--3.png",
+      "title": "Модульді курстар",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+    },
+    "modularCourses": [
+      {
+        "id": 0,
+        "img": "https://get.wallhere.com/photo/illustration-simple-background-minimalism-artwork-text-logo-circle-JavaScript-brand-reactJS-Facebook-symbol-computer-wallpaper-font-11095.png",
+        "title": "React for Front-End Developers",
+        "description": "Backed by Facebook and used by tech companies large and small, React has quickly become the most popular front-end framework in the tech world. ",
+        "modules": 5
+      },
+      {
+        "id": 1,
+        "img": "https://twilio-cms-prod.s3.amazonaws.com/original_images/java-logo-wide.jpg",
+        "title": "Java for Programmers",
+        "description": "BJava is one of the most sought after and widely used programming languages in the tech industry, and will continue to be for the foreseeable future. ",
+        "modules": 6
+      },
+      {
+        "id": 2,
+        "img": "https://sun9-21.userapi.com/c855428/v855428097/1a2796/0Xw07sKhDPw.jpg",
+        "title": "Python Data Analysis",
+        "description": "This path will help you master the skills to extract insights from data using a powerful (and easy to use) assortment of popular Python libraries.",
+        "modules": 4
+      }
+    ]
+  },
+  "courses": {
+    "banner": {
+      "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/f5ee7e80694769.Y3JvcCwyMzEwLDE4MDcsOTEsOTc.jpg",
+      "title": "Орталықтың курстары",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+    },
+    "courses": [
+      {
+        "id": 0,
+        "img": "https://sun9-21.userapi.com/c855428/v855428097/1a2796/0Xw07sKhDPw.jpg",
+        "title": "Programming with Python",
+        "price": "19 600",
+        "author": "Baktyar Aydar",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      },
+      {
+        "id": 1,
+        "img": "https://repository-images.githubusercontent.com/275310694/63b97580-ca04-11ea-9e8c-dd829e2c37fd",
+        "title": "Best WEB Application Framework - ReactJS",
+        "price": "19 600",
+        "author": "Akimbek Medkhat",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      },
+      {
+        "id": 2,
+        "img": "https://media.proglib.io/wp-uploads/2018/10/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2dec0be9.0824244915232440779669.jpg",
+        "title": "C++. Fast programming",
+        "price": "20 000",
+        "author": "Bakhytov Yerniyaz",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      },
+      {
+        "id": 3,
+        "img": "https://www.360edukraft.com/wp-content/uploads/2018/08/Python-Django-Certification-Training-course.jpg",
+        "title": "Backend with Django",
+        "price": "19 000",
+        "author": "Otarbay Dauren",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      },
+      {
+        "id": 4,
+        "img": "https://hsto.org/getpro/habr/post_images/5a9/da1/bb9/5a9da1bb94c55a3084ddabcef722cd30.jpg",
+        "title": "iOS Development with Swift",
+        "price": "19 500",
+        "author": "Shomat Ilyas",
+        "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+        "level": "Beginner",
+        "studentsNumber": 43
+      }
+    ]
+  },
+  "teachers": {
+    "banner": {
+      "img": "https://mir-s3-cdn-cf.behance.net/projects/max_808/f5ee7e80694769.Y3JvcCwyMzEwLDE4MDcsOTEsOTc.jpg",
+      "title": "Орталықтың оқытушылары",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+    },
+    "teachers": [
+      {
+        "id": 0,
+        "status": "teacher",
+        "firstName": "Aydar",
+        "lastName": "Baktiyar",
+        "subject": "Programming",
+        "rating": 4.8,
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      },
+      {
+        "id": 1,
+        "status": "teacher",
+        "firstName": "Medkhat",
+        "lastName": "Akimbek",
+        "subject": "Programming",
+        "rating": 4.8,
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      },
+      {
+        "id": 2,
+        "status": "teacher",
+        "firstName": "Dauren",
+        "lastName": "Otarbay",
+        "subject": "Programming",
+        "rating": 4.8,
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      },
+      {
+        "id": 3,
+        "status": "teacher",
+        "firstName": "Yerniyaz",
+        "lastName": "Bakhytov",
+        "subject": "Programming",
+        "rating": 4.8,
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      },
+      {
+        "id": 4,
+        "status": "teacher",
+        "firstName": "Ilyas",
+        "lastName": "Shomat",
+        "subject": "Programming",
+        "rating": 4.8,
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      }
+    ]
+  },
+  "students": {
+    "banner": {
+      "img": "https://www.pngkey.com/png/full/205-2053540_student-working-png-jpg-transparent-stock-fun-png.png",
+      "title": "Орталықтың оқушылары",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+    },
+    "students": [
+      {
+        "id": 0,
+        "status": "student",
+        "firstName": "Aydar",
+        "lastName": "Baktiyar",
+        "subject": "Programming",
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      },
+      {
+        "id": 1,
+        "status": "student",
+        "firstName": "Medkhat",
+        "lastName": "Akimbek",
+        "subject": "Programming",
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      },
+      {
+        "id": 2,
+        "status": "student",
+        "firstName": "Dauren",
+        "lastName": "Otarbay",
+        "subject": "Programming",
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      },
+      {
+        "id": 3,
+        "status": "student",
+        "firstName": "Yerniyaz",
+        "lastName": "Bakhytov",
+        "subject": "Programming",
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      },
+      {
+        "id": 4,
+        "status": "student",
+        "firstName": "Ilyas",
+        "lastName": "Shomat",
+        "subject": "Programming",
+        "img": "https://yt3.ggpht.com/a/AATXAJzxLiJr1_4IUG1mAWiQjX-taot4EXB-bS0wNg=s900-c-k-c0xffffffff-no-rj-mo"
+      }
+    ]
+  },
+  "posts": {
+    "banner": {
+      "img": "https://mlabnrincht3.i.optimole.com/1YuVonE-7tzrRAha/w:1024/h:786/q:90/https://digitalfineprint.com/wp-content/uploads/2019/08/blogger-min.png",
+      "title": "Блогтар",
+      "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+    },
+    "posts": [
+      {
+        "id": 0,
+        "title": "What is Lorem Ipsum ?",
+        "date": "03-11-2020 13:15",
+        "viewers": 32,
+        "img": "https://storage.googleapis.com/cdn.makiplace.com/2018/01/Lorem-Serif.png"
+      },
+      {
+        "id": 1,
+        "title": "Python (programming language)",
+        "date": "02-11-2020 13:15",
+        "viewers": 32,
+        "img": "https://sun9-21.userapi.com/c855428/v855428097/1a2796/0Xw07sKhDPw.jpg"
+      },
+      {
+        "id": 2,
+        "title": "JavaScript is the best programming language",
+        "date": "02-11-2020 14:15",
+        "viewers": 32,
+        "img": "https://avatars.mds.yandex.net/get-zen_doc/1878571/pub_5d0c8182a692c900afdb95d5_5e634d95dbf48a391f4c808e/scale_1200"
+      },
+      {
+        "id": 3,
+        "title": "Kazakh khanate",
+        "date": "02-11-2020 14:15",
+        "viewers": 32,
+        "img": "https://time.kz/up_img/szh.kz_.jpg"
+      },
+      {
+        "id": 4,
+        "title": "QazAcademy in USA",
+        "date": "02-11-2020 14:15",
+        "viewers": 32,
+        "img": "http://www.kazakistan.kz/wp-content/uploads/2018/03/kazahstan_i_ssha.jpg"
+      }
+    ]
+  },
+  "posts-detail": {
+    "id": 2,
+    "title": "JavaScript is the best programming language",
+    "date": "02-11-2020 14:15",
+    "viewers": 32,
+    "img": "https://tgraph.io/file/d1dca0cb6b3697f03b647.jpg",
+    "content": "<h4>There are many variations of passages of Lorem Ipsum available</h4> <p>but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p> <p> This path will help you master the skills to extract insights from data using a powerful (and easy to use) assortment of popular Python libraries. </p> <img src=\"https://pbs.twimg.com/media/EFa3K3nXUAA5MB9.jpg\" />"
+  },
+  "course-detail": {
+    "id": 0,
+    "img": "https://secure.meetupstatic.com/photos/event/3/2/6/9/highres_472212905.jpeg",
+    "title": "Build WEB apps with Vue.js",
+    "price": "19 600",
+    "author": "Otarbay Dauren",
+    "authorImg": "https://i.vimeocdn.com/portrait/32380540_640x640",
+    "completionTime": 600,
+    "certificate": true,
+    "courseCounts": {
+      "level": "Beginner",
+      "studentsNumber": 43,
+      "lessonsNumber": 55,
+      "quizzesNumber": 10,
+      "tasksNumber": 5
+    },
+    "description": "<p>This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js.</p><p>You will start with an introduction to Vue.js, why it is useful, and an explanation of its basic structure. After that, you will cover some crucial materials around Vue.js like directives, renderers, user input handlers, and Vue components.</p><p>Finally, you will combine all these concepts together to make a Single Page Application that interacts with a backend server, APIs, and a database.</p><p>This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js. This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js. This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js. This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js. This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js.</p>"
+  },
+  "lesson-detail": {
+    "courseId": 0,
+    "lessons": [
+      {
+        "id": 0,
+        "title": "Commencing the Journey: Introductions and Conventions",
+        "resources": [
+          {
+            "id": 0,
+            "title": "What Does This Course Cover?",
+            "resourceType": "text",
+            "isOpen": true
+          },
+          {
+            "id": 1,
+            "title": "Who Is This Course For?",
+            "resourceType": "audio",
+            "isOpen": true
+          },
+          {
+            "id": 2,
+            "title": "Conventions of the Course",
+            "resourceType": "video",
+            "isOpen": true
+          },
+          {
+            "id": 3,
+            "title": "Structure Rundown of Vue.js App",
+            "resourceType": "youtube",
+            "isOpen": true
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Why Use JavaScript Front-end Frameworks?",
+        "resources": [
+          {
+            "id": 4,
+            "title": "How Do Traditional Web Pages Work?",
+            "resourceType": "pdf",
+            "isOpen": true
+          },
+          {
+            "id": 5,
+            "title": "What is Vue.js?",
+            "resourceType": "docs",
+            "isOpen": true
+          },
+          {
+            "id": 6,
+            "title": "How is Vue.js Better? ",
+            "resourceType": "videoconference",
+            "isOpen": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Basic Structure of Vue.js App",
+        "resources": [
+          {
+            "id": 7,
+            "title": "Data in Vue.js App (Home task)",
+            "resourceType": "task",
+            "isOpen": true
+          },
+          {
+            "id": 8,
+            "title": "Methods in Vue.js (Quizz)",
+            "resourceType": "test",
+            "isOpen": true
+          }
+        ]
+      }
+    ]
+  },
+  "lessons": [
+    {
+      "id": 0,
+      "resourceType": "text",
+      "title": "What Does This Course Cover?",
+      "content": "<h2>There are many variations of passages of Lorem Ipsum available</h2> <p>But the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p> <p> This path will help you master the skills to extract insights from data using a powerful (and easy to use) assortment of popular Python libraries. </p> <img src=\"https://pbs.twimg.com/media/EFa3K3nXUAA5MB9.jpg\" /><p>This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js.</p><p>You will start with an introduction to Vue.js, why it is useful, and an explanation of its basic structure. After that, you will cover some crucial materials around Vue.js like directives, renderers, user input handlers, and Vue components.</p><p>Finally, you will combine all these concepts together to make a Single Page Application that interacts with a backend server, APIs, and a database.</p><p>This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js. This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js. This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js. This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js. This course will provide you with the necessary skills to develop intermediate-level Single Page Applications (SPA) by using Vue.js.</p"
+    },
+    {
+      "id": 1,
+      "resourceType": "audio",
+      "title": "Who Is This Course For?",
+      "content": "https://open.spotify.com/track/3EMj0xxKO8V9fvW5yTbSxI"
+    },
+    {
+      "id": 2,
+      "resourceType": "video",
+      "title": "Conventions of the Course",
+      "content": "https://youtu.be/pSYHJqV2sDI"
+    },
+    {
+      "id": 3,
+      "resourceType": "youtube",
+      "title": "Structure Rundown of Vue.js App",
+      "content": "https://youtu.be/pSYHJqV2sDI"
+    },
+    {
+      "id": 4,
+      "resourceType": "pdf",
+      "title": "How Do Traditional Web Pages Work?",
+      "content": "https://digitalkz.kz/wp-content/uploads/2020/03/%D0%93%D0%9F%20%D0%A6%D0%9A%20%D0%BD%D0%B0%20%D0%B0%D0%BD%D0%B3%D0%BB%2003,06,2020.pdf"
+    },
+    {
+      "id": 5,
+      "resourceType": "docs",
+      "title": "What is Vue.js?",
+      "content": "https://docs.google.com/document/d/1Z-AuCinBWhAqXPtobtKvPY7w08xV5Nx7IRJMiI1chsM/edit?usp=sharing"
+    },
+    {
+      "id": 6,
+      "resourceType": "videoconference",
+      "title": "How is Vue.js Better?  ",
+      "content": "https://meet.google.com/atj-ptno-gss",
+      "description": "<p>Backed by Facebook and used by tech companies large and small.<p><p> React has quickly become the most popular front-end framework in the tech world. </p>",
+      "startDate": "15-01-2021",
+      "startTime": "13:00:00"
+    },
+    {
+      "id": 7,
+      "resourceType": "task",
+      "title": "Data in Vue.js App (Home task)",
+      "content": "<h4>IDE орнату және осы сабақтағы тақырыптарды өзіндік орындау</h4><p>Бірінші сабақтағы көрсетілген әдістер бойынша IDE орнатыңыз және де сабақ барысын қайталаңыз</p>"
+    },
+    {
+      "id": 8,
+      "resourceType": "test",
+      "title": "Methods in Vue.js (Quizz)",
+      "questions": [
+        {
+          "id": 0,
+          "question": "Choose the method of state hook in React.js ?",
+          "answers": [
+            {
+              "variant": "A",
+              "content": "useState()"
+            },
+            {
+              "variant": "B",
+              "content": "useEffect()"
+            },
+            {
+              "variant": "C",
+              "content": "setState()"
+            },
+            {
+              "variant": "D",
+              "content": "useReducer()"
+            },
+            {
+              "variant": "E",
+              "content": "stateHook()"
+            }
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": 1,
+          "question": "What is Redux for ?",
+          "answers": [
+            {
+              "variant": "A",
+              "content": "Effect management"
+            },
+            {
+              "variant": "B",
+              "content": "Context management"
+            },
+            {
+              "variant": "C",
+              "content": "State management"
+            },
+            {
+              "variant": "D",
+              "content": "Data management"
+            },
+            {
+              "variant": "E",
+              "content": "Props management"
+            }
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": 2,
+          "question": "Who created DalaAcademy platform ?",
+          "answers": [
+            {
+              "variant": "A",
+              "content": "Facebook"
+            },
+            {
+              "variant": "B",
+              "content": "Twitter"
+            },
+            {
+              "variant": "C",
+              "content": "Google"
+            },
+            {
+              "variant": "D",
+              "content": "Apple"
+            },
+            {
+              "variant": "E",
+              "content": "DalaService"
+            }
+          ],
+          "correctAnswer": "F"
+        }
+      ]
+    }
+  ]
+}
